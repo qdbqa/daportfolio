@@ -9,7 +9,7 @@ Projects in R:
 
 Projects in Python:
 
-- [Analyzing Meteorite Landings](https://github.com/qdbqa/daportfolio/blob/main/meteor_landings.ipynb)
+- [Analyzing Meteorite Landings](https://github.com/qdbqa/daportfolio/blob/main/meteorite_landings.ipynb)
 - [Exploring Hacker News Posts](https://github.com/qdbqa/daportfolio/blob/main/exploring_hacker_news_posts.ipynb)
 - [Exploring Ebay Car Sales](https://github.com/qdbqa/daportfolio/blob/main/ebay_car_sales.ipynb)
 - [Visualizing Earnings Based On College Majors](https://github.com/qdbqa/daportfolio/blob/main/earnings_college_majors.ipynb)
